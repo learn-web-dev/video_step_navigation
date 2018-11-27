@@ -1,8 +1,11 @@
 [
   general comments from Kay:
-    this story (these stories) generally need to follow the patterns more exactly --be more cookie cutter,
-      example, spacing matters; please match all spacing to that of the initial feature
-      please see additional comments inline
+    this story (these stories) generally
+      provide good info and focus on an important feature (nice job!)
+      follow the rough outline of a user story (also nice to see!)
+      need to follow the patterns even more exactly (be more cookie cutter):
+        example, spacing matters; please match all spacing to that of the initial feature
+        please see additional comments inline
     I've renamed this file 'create video clip for step'; please consider your best understanding of the reasons as you create new user stories.
 ]]
 
