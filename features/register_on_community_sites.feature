@@ -3,8 +3,8 @@
 
 Feature: inputting the user registration info at drupal.org
 As an user
-I can register to the site
-So that I can gain access to additional benefits the website offers .[access information. [<< can't a person access information without registering?]]
+I can register as a member to the site
+So that I can access to additional benefits the website offers
 
 Scenario: Asking for registration info such as email, user name, and password to verify I am a person.
 
@@ -16,6 +16,9 @@ Discussion:
     Originally thinking it was a means to an ends, but made more general and thinking of the end goal.
     I made the change because I input my information not just as a trade off to register, but because I believe
     it's worth it.
+12:30 11/28 -  It's difficult to figure out what audience I am speaking to.  Developers, Users, Authors All?  I am having some difficulty
+using the correct language/syntax to keep the story usable for all parties.
+
 
   Kay's response:
     There are improvements in your approach. Ensure you understand the actual challenge and that you incorporate all parts of it. I think the quality will improve further in your next round.
