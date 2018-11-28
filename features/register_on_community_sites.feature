@@ -1,9 +1,10 @@
 
 
+
 Feature: inputting the user registration info at drupal.org
 As an user
-I input my information
-So that I can [access information. [<< can't a person access information without registering?]]
+I can register to the site
+So that I can gain access to additional benefits the website offers .[access information. [<< can't a person access information without registering?]]
 
 Scenario: Asking for registration info such as email, user name, and password to verify I am a person.
 
@@ -27,4 +28,14 @@ Discussion:
       5) push the breakout of challenges
       6) start revising the user story
       7) note progress, questions and uncertainties in Hangouts as you go
+
+
+  Jasen's breakout
+  the original story was vague and general.
+  As an user
+  I input my information
+  So that I can access information.
+
+  I updated the story to reflect more so the example and to think of why people registered onto the site.
+  This was harder than it seemed, b/c I was not sure the exact reason why people register?
 */
