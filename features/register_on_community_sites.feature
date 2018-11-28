@@ -29,8 +29,13 @@ Discussion:
       6) start revising the user story
       7) note progress, questions and uncertainties in Hangouts as you go
 
+Challenge
+Creating accounts for yourself on drupal.org and stackexchange.com
+and then write a single story that could apply to either
 
   Jasen's breakout
+Write 1 story that could apply to drupal.org and stackexchange.com
+
   the original story was vague and general.
   As an user
   I input my information
