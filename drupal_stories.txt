@@ -1,0 +1,29 @@
+1. Feature: learning about drupal.org
+As an user
+I can click on the Why Drupal tab
+So that I can learn about all what drupal offers.
+Scenario: Gleaming general information about Drupal
+
+2. Feature: Downloading drupal
+As an user
+I can click the try drupal button
+So that I can see what drupal looks like
+Scenario: Wanting to start using drupal platform.
+
+3. Feature: Learning how to use drupal.org
+As an user
+I can click on the community button
+So that I can access new ways to commune and communicate
+Scenario: Wanting to find answers with Drupal.org so I can learn more about general/specific issues.
+
+4. Feature: Getting more involved at drupal.org
+As an user
+I can learn what drupal has to offer
+So that I can become more engrossed in learning the language
+Scenario: Learning more about how to join the association or other opportunities.
+
+5. Feature: Seeing real examples
+As an user
+I can see real life examples of drupal
+So that I can see how it relates to how I can use it.
+Scenario: Seeing how drupal can work for my site/interests.
