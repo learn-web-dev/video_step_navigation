@@ -1,4 +1,6 @@
-Search term youtube: CSS VS Flexbox  
+Search term youtube: **CSS VS Flexbox**
+
+**CSS GRID vs Flexbox by Academind**  
 
 CSS Grid Layout Crash Course   
 
@@ -16,7 +18,21 @@ CSS Grid Layout Crash Course 
 
 08:55 Showing Flexbox ideas  
 
-11:13 Best to use both, no reason to just use 1, you get a better result.  
+11:13 Best to use both, no reason to just use 1, you get a better result.
+
+**Flexbox vs CSS Grid - Which is better? by LayoutLand**
+
+**00:45** Flow is important
+
+01:13 Handles layout for a direct part of page
+
+01:38 When to use which one starting w Flexbox
+
+02:42 Layout for grid
+
+02:53 Layout for flexbox
+
+03:28 When to use grid over flexbox as it can overlap  
 
 Quick tips:
 
