@@ -1,0 +1,8 @@
+quick draft brief on writing user stories
+
+Think about the reason why you're writing.
+Use the correct wording (As, Can, So That)
+Start with the desired demographic (User, Author, Developer)
+Think about what story you can write that would help the demographic
+Write the story quickly without too much thought.
+Go back and look at the story and revise it 
