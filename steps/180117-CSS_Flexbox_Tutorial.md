@@ -40,10 +40,4 @@ Source: https://www.youtube.com/watch?time_continue=478&v=0e02dl66PYo
 
 14:44 Default item using Order to rearrange text,   
 
-15:34 Flex Grow  
-
-Quick tips:
-
-- _Ctrl+I_ adds _italic_ formatting and **Ctrl+B** adds **bold** formatting.
-
-- Press ESC to play/pause, and Ctrl+J to insert the current timestamp.
+15:34 Flex Grow
